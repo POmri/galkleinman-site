@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://galkleinman.com/sitemap.xml
